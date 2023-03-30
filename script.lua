@@ -1,18 +1,4 @@
-getgenv().settin = {
-    ['WebHook'] = {
-        ['Webhook'] = "https://discord.com/api/webhooks/1062022348267602001/nNgyCdyaNyD07s9rrJTbjZlgIhTEoXqohzUBJqDWJCnun4hmALm2Yg61mTu3FIDsV-1Z",
-    },
-    ['ServerHopDelay'] = 15, -- minutes, resets every donation
-    ['MinimumWithdrawAmount'] = 1000, -- fake withdraw amount
-    ['Beg'] = {
-        ['Delay'] = 120,
-        ['Messages'] = {
-            'WIN BOBUX HERE',
-            'TYPE .HELP TO PLAY',
-            'TIRED OF NO DONATIONS? PLAY OUR GAME'
-        }
-    }
-}
+
 --[[
 	This property is protected.
 	You are not allowed to claim this as your own.
